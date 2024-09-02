@@ -1,0 +1,4 @@
+hashicorp/terraform-provider-random
+hashicorp/terraform-provider-null=3.2.2
+#yandex-cloud/terraform-provider-yandex
+#hashicorp/terraform-provider-aws=5.65.0
